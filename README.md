@@ -15,7 +15,7 @@ The First Page Created is intro.html page following things are included in page:
 ![1c](https://user-images.githubusercontent.com/72078555/129088554-ec2d477f-307b-4e85-94bd-301ed14f03ad.PNG)
 
 
-Second Page Created is Among Us Page Following Things are included in the page:
+Second Page Created is About  Us Page Following Things are included in the page:
 
 • Navigation bar that include Links of Home , Contact Us and About Us
 
@@ -28,6 +28,17 @@ Note: Here LinkedIn,facebook,twitter and youtube buttons are linked to original 
 
 ![2a](https://user-images.githubusercontent.com/72078555/129088838-da26fedc-beb1-4b99-9db8-b2f653aee31b.PNG)
 ![2b](https://user-images.githubusercontent.com/72078555/129088856-7a7428e7-c795-4680-8719-e3648ba18753.PNG)
+
+
+
+Third Page Created is Contact Us Page Following Things are included in the page:
+
+• Navigation bar that include Links of Home , Contact Us and About Us
+
+•  A Contact Us Form
+
+• Footer containing information about 'Yash Tutorials',Address and Social media accounts
+
 
 
 
