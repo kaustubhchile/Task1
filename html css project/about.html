@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yash Tutorials</title>
+    <link rel="stylesheet" href="about.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+        integrity="sha512-PgQMlq+nqFLV4ylk1gwUOgm6CtIIXkKwaIHp/PAIWHzig/lKZSEGKEysh0TCVbHJXCLN7WetD8TFecIky75ZfQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer">
+
+
+
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html">
+                <img src="logo.jpg">
+            </a>
+            <div class="nav-links" id="navlinks">
+                <i class="fa fa-times" onclick="hidemenu()"></i>
+                <ul>
+                    <li><a href="intro.html">HOME</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    
+                    <li><a href="contact.html">CONTACT US</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>About Us</h1>
+
+        </div>
+    </section>
+
+    <!-- ------About us------ -->
+
+    <section class="about">
+
+        <h4>About Yash Tutorials</h4>
+        <p>
+
+            Yash Tutorials is one of the best educational coaching institutes providing suitable and qualitative exam
+            syllabus and coaching for all one-day competitive examinations. We train aspirants  for
+            classes from 5th to 10th exams. We also have coaching classes  for junior college students for HSC Exams
+
+          <br>
+            The institution started its journey in the year 2014 and since then it has helped students get selected
+            for
+            a number of prestigious positions in various sectors through qualitative and useful foundation batches
+            and
+            online practice sets.
+
+        </p>
+
+    </section>
+
+
+
+    <!-- -------footer------ -->
+
+    <section class="footer">
+
+
+
+        <div class="abt">
+            <h4>About</h4>
+            <p class="footer-about">Yash Tutorials is one of the best educational coaching institutes providing suitable and qualitative exam syllabus and coaching for all one-day competitive examinations.</p>
+        </div>
+        <div class="abt">
+            <h4>Our Address</h4>
+            <p class="address">Shanti Buildings,<br>
+                Senapati Bapat Road,<br>Dadar (w),<br>Mumbai-400 042<br>
+                <i class="fas fa-phone"></i>:+9198765XXXXX<br>
+            </p>
+        </div>
+        <div class="abt">
+            <h4>Social Media</h4>
+
+
+            <a href="mailto:"><i class="fas fa-envelope-square"></i></a>
+
+
+            <a href="http://www.facebook.com/profile.php?id=">
+                <i class="fab fa-facebook"></i></a>
+
+
+            <a href="http://www.linkedin.com/in/"><i class="fab fa-linkedin"></i></a>
+
+
+            <a href="http://twitter.com/"><i class="fab fa-twitter"></i></a>
+
+
+            <a href="http://youtube.com/"><i class="fab fa-youtube"></i></a>
+        </div>
+
+
+
+    </section>
+
+</body>
+<!-- ------javascript for toggle menu------ -->
+<script>
+    var navlinks = document.getElementById("navlinks");
+    function showmenu() {
+        navlinks.style.right = "0";
+    }
+    function hidemenu() {
+        navlinks.style.right = "-12.5rem";
+    }
+</script>
+
+</html>
