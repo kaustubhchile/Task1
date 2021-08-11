@@ -15,6 +15,17 @@ The First Page Created is intro.html page following things are included in page:
 ![1c](https://user-images.githubusercontent.com/72078555/129088554-ec2d477f-307b-4e85-94bd-301ed14f03ad.PNG)
 
 
+Second Page Created is Among Us Page Following Things are included in the page:
+
+• Navigation bar that include Links of Home , Contact Us and About Us
+
+• Information about 'Yash Tutorials' in detail
+
+• Footer containing information about 'Yash Tutorials',Address and Social media accounts
+
+Note: Here LinkedIn,facebook,twitter and youtube buttons are linked to original  LinkedIn,facebook,twitter and youtube pages
+
+
 
 
 
