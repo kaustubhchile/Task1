@@ -26,6 +26,12 @@ Second Page Created is Among Us Page Following Things are included in the page:
 Note: Here LinkedIn,facebook,twitter and youtube buttons are linked to original  LinkedIn,facebook,twitter and youtube pages
 
 
+![2a](https://user-images.githubusercontent.com/72078555/129088838-da26fedc-beb1-4b99-9db8-b2f653aee31b.PNG)
+![2b](https://user-images.githubusercontent.com/72078555/129088856-7a7428e7-c795-4680-8719-e3648ba18753.PNG)
+
+
+
+
 
 
 
